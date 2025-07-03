@@ -1,69 +1,92 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
-
-[Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 ## Preview
 
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+![{4D0D8E41-5ADE-43EE-B622-53A345F2C5DD}](https://github.com/user-attachments/assets/8db516ec-653a-4c4e-9e98-fab07dda0844)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
 
-## Status
+# 👋 안녕하세요! 김용석입니다.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
+끊임없이 배우고 도전하는 신입 개발자입니다.  
+백엔드와 프론트엔드를 모두 다룰 수 있으며, 팀 프로젝트와 개인 프로젝트를 통해  
+**Spring Framework / Spring Boot / MyBatis / JPA / Python / React** 등 다양한 기술을 경험해보았습니다.
 
-## Download and Installation
+---
 
-To begin using this template, choose one of the following options to get started:
+## 🛠 기술 스택
 
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
-- Install using npm: `npm i startbootstrap-resume`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
+### 🔧 언어 & 프레임워크
+- Java, Python, JavaScript
+- Spring Framework / Spring Boot
+- MyBatis, JPA
+- React, Styled-components, REST API
+- Thymeleaf, JSP
 
-## Usage
+### 💾 기타
+- Git & GitHub
+- VSCode, IntelliJ IDEA
+- MySQL
 
-### Basic Usage
+---
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+## 💼 프로젝트 경험
 
-### Advanced Usage
+### 🔥 AI 화재 감지 시스템
+> Spring Boot + MyBatis + Python  
+딥러닝 기반 화재 인식 모델과 연동하여 실시간 화재 감지 및 관리자 알림 기능 구현  
+[🔗 GitHub 보기](https://eunji-c0923.github.io/project/)
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+---
 
-#### npm Scripts
+### 📚 문피아 스타일 소설 창작 플랫폼  
+> Spring MVC + MyBatis + JSP  
+회원가입, 소설 등록/조회, 댓글 기능, 로그인 인증 등 기본 기능 구현  
+[🔗 GitHub 보기](https://github.com/Cr7-Ronaldo/Spring_Boot_Class_Project)
 
-- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-- `npm run start:debug` runs the project in debug mode
-- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
+---
 
-You must have npm installed in order to use this build environment.
+### 📱 중고폰 거래 사이트 - 팔도마켓  
+> Spring Boot + JPA + Thymeleaf  
+상품 등록 및 이미지 업로드, 카테고리 필터링, 비밀번호 검증 모달 등 구현  
+[🔗 GitHub 보기](https://github.com/Cr7-Ronaldo/Personal_projects)
 
-## Bugs and Issues
+---
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-resume/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/resume/).
+### 🛍 React 쇼핑몰 클론  
+> React + Styled-components + JWT  
+상품 목록, 장바구니, 주문 기능 및 로그인 인증 구현  
+[🔗 GitHub 보기](https://github.com/Cr7-Ronaldo/shop)
 
-## About
+---
 
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+## 🎓 학력
 
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
+- **난징대학교** – 시장마케팅 전공 (수료)
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+---
 
-- <https://davidmiller.io>
-- <https://twitter.com/davidmillerhere>
-- <https://github.com/davidtmiller>
+## 📜 자격증 및 수상
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+- 토익 750점
+- 신 HSK 6급
+- 구글 클라우드 기반 AI 활용 수료
+- 스프링 부트 기반 웹 서비스 개발 프로젝트 **우수상**
 
-## Copyright and License
+---
 
-Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
+## ✨ 관심사
+
+- 클린 코드, 리팩토링
+- 기술 블로그 & 오픈소스 리딩
+- AI와 백엔드 기술 융합
+
+---
+
+## 📬 연락처
+
+📧 Email: [hucleberryp@naver.com](mailto:hucleberryp@naver.com)  
+📍 위치: 서울시 강동구  
+🔗 GitHub: [Cr7-Ronaldo](https://github.com/Cr7-Ronaldo)
+
+---
+
+> 항상 배움과 성장을 추구하며, 함께 일하고 싶은 개발자가 되겠습니다! 😊
