@@ -45,7 +45,7 @@
 ---
 
 ### 📱 중고폰 거래 사이트 - 팔도마켓  
-> Spring Boot + JPA + Thymeleaf  
+> Spring FrameWork + JPA + Thymeleaf  
 상품 등록 및 이미지 업로드, 카테고리 필터링, 비밀번호 검증 모달 등 구현  
 [🔗 GitHub 보기](https://github.com/Cr7-Ronaldo/Personal_projects)
 
