@@ -32,14 +32,14 @@
 
 ### 🔥 AI 화재 감지 시스템
 > Spring Boot + MyBatis + Python  
-딥러닝 기반 화재 인식 모델과 연동하여 실시간 화재 감지 및 관리자 알림 기능 구현  
+딥러닝 기반 화재 인식 모델과 연동하여 실시간 화재 감지 및 관리자 알림 기능 구현중
 [🔗 GitHub 보기](https://eunji-c0923.github.io/project/)
 
 ---
 
 ### 📚 문피아 스타일 소설 창작 플랫폼  
 > Spring MVC + MyBatis + JSP  
-회원가입, 소설 등록/조회, 댓글 기능, 로그인 인증 등 기본 기능 구현  
+회원가입, 소설 등록/조회, 댓글 기능, 로그인 인증 등 기본 기능 구현중
 [🔗 GitHub 보기](https://github.com/Cr7-Ronaldo/Spring_Boot_Class_Project)
 
 ---
@@ -53,7 +53,7 @@
 
 ### 🛍 React 쇼핑몰 클론  
 > React + Styled-components + JWT  
-상품 목록, 장바구니, 주문 기능 및 로그인 인증 구현  
+상품 목록, 장바구니, 주문 기능 및 로그인 인증 구현중
 [🔗 GitHub 보기](https://github.com/Cr7-Ronaldo/shop)
 
 ---
